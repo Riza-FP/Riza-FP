@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">👋 Hi, I'm Riza Fauzan Pratama!</h1>
-  <br />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196f3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Next.js+Enthusiast;Always+learning!" alt="Typing SVG" />
   </a>
@@ -16,7 +15,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <h3>Frontend</h3>
@@ -41,7 +40,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Riza-FP&show_icons=true&theme=radical&hide_border=true" alt="Riza's GitHub Stats" />
@@ -52,7 +51,7 @@
 
 ---
 
-<h2 align="center">🚀 What I'm Working On</h2>
+<h2 align="center">What I'm Working On</h2>
 
 - 💻 Building full-stack SaaS projects
 - 🏗️ Improving system design skills
