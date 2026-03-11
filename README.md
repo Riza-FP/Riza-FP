@@ -60,7 +60,7 @@
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center">Let's Connect!</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/riza-fauzan-pratama-8a9b83262/">
@@ -77,6 +77,6 @@
 ---
 
 <div align="center">
-  <h3>✨ Fun Fact</h3>
+  <h3>Fun Fact</h3>
   <p>I love turning ideas into real, production-ready applications!</p>
 </div>
