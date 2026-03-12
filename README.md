@@ -13,7 +13,7 @@ Working across both frontend and backend technologies, focusing on writing clean
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <div>
   <h3>Frontend</h3>
@@ -38,16 +38,67 @@ Working across both frontend and backend technologies, focusing on writing clean
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2>Featured Projects</h2>
 
-<div align="center">
+### [Circle](https://github.com/Riza-FP/circle-app-project)
+A social media platform built with realtime features, enhancing user interaction experience online.
+<br/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+<img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101" alt="Socket.io" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" alt="Prisma ORM" />
+<br/>
+🔗 **[Live Demo](https://circle-app-project.vercel.app/)** | 📂 **[GitHub Repo](https://github.com/Riza-FP/circle-app-project)**
+
+### [Pathfinder](https://github.com/Riza-FP/travel-itinerary-planner-app)
+Intelligent travel companion that helps you design the perfect getaway in seconds.
+<br/>
+<img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<br/>
+🔗 **[Live Demo](https://pathfinder-seven-tau.vercel.app/)** | 📂 **[GitHub Repo](https://github.com/Riza-FP/travel-itinerary-planner-app)**
+
+### [DevCircuit](https://github.com/Riza-FP/devcircuit)
+A state-of-the-art e-commerce application built for developers and tech enthusiasts.
+<br/>
+<img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="Zustand" />
+<img src="https://img.shields.io/badge/Midtrans-000000?style=flat-square&logo=midtrans&logoColor=white" alt="Midtrans" />
+<br/>
+🔗 **[Live Demo](https://devcircuit.vercel.app/)** | 📂 **[GitHub Repo](https://github.com/Riza-FP/devcircuit)**
+
+### [Taskify](https://github.com/Riza-FP/taskify)
+Kanban-based task management application designed to help individuals and small teams organize their work visually.
+<br/>
+<img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next JS" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+<br/>
+🔗 **[Live Demo](https://taskify-frontend-lilac.vercel.app)** | 📂 **[GitHub Repo](https://github.com/Riza-FP/taskify)**
+
+---
+
+<h2>GitHub Stats</h2>
+
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Riza-FP&show_icons=true&theme=radical&hide_border=true" alt="Riza's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riza-FP&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-<h2 align="center">🚀 What I'm Working On</h2>
+<h2>What I'm Working On</h2>
 
 - 💻 Building full-stack SaaS projects
 - 🏗️ Improving system design skills
@@ -55,7 +106,7 @@ Working across both frontend and backend technologies, focusing on writing clean
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2>Let's Connect!</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/riza-fauzan-pratama-8a9b83262/">
@@ -71,7 +122,7 @@ Working across both frontend and backend technologies, focusing on writing clean
 
 ---
 
-<div align="center">
-  <h3>✨ Fun Fact</h3>
+<div>
+  <h3>Fun Fact</h3>
   <p>I love turning ideas into real, production-ready applications!</p>
 </div>
