@@ -7,7 +7,10 @@
 
 <br/>
 
-Full-Stack Developer focused on building modern web applications using React, Next.js, TypeScript, Laravel, Express.js, and PostgreSQL. Experienced in developing REST APIs, database integration, and scalable full-stack applications.
+Full-Stack Developer focused on building modern web applications using React, Next.js, TypeScript, Laravel, Express.js, and PostgreSQL.
+My journey began with a curiosity about how the web works, which led me to focus on full-stack application development, REST APIs, and database integration.
+
+I enjoy building reliable backend services and responsive user interfaces while writing clean, maintainable code.
 
 ---
 
